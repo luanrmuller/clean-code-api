@@ -1,0 +1,13 @@
+{
+  "name": "clean-code-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/luanrmuller/clean-code-api",
+  "author": "luanrmuller <muller@live.in>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "git-commit-msg-linter": "^4.5.0",
+    "typescript": "^4.9.4"
+  }
+}
